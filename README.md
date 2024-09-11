@@ -17,7 +17,7 @@ I'm a **Grad Student🎓** majoring in Computer Science. I'm a **Tech Enthusiast
 
 ## ⚡️ A Few Quick Facts
 
-- 🔭 I’m currently working as a Researcher at **[@ The Ohio State University - Wexner Medical Center 🅾️](https://wexnermedical.osu.edu/)**
+ 
 - <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
 - 🌐 Passionate about building responsive and dynamic websites.
 - 🎨 Proficient in HTML, CSS, JavaScript, React, and Tailwind CSS.
