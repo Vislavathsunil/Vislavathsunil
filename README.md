@@ -54,9 +54,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://my-portfolio-psi-two-19.vercel.app/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="sunil-portfolio" height="30" width="40" /></a>
-  <a href="https://www.linkedin.com/in/sunil2004/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" alt="rohitrai0" height="30" width="40" /></a>
-  <a href="https://x.com/mrsunil0101" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/1200px-X_logo.jpg" alt="mrsunil0101" height="30" width="40" /></a>
+  <a href="https://my-portfolio-psi-two-19.vercel.app/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="sunil-portfolio" height="30" width="60" /></a>
+  <a href="https://www.linkedin.com/in/sunil2004/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" alt="rohitrai0" height="30" width="45" /></a>
+  <a href="https://x.com/mrsunil0101" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/1200px-X_logo.jpg" alt="mrsunil0101" height="30" width="45" /></a>
 </p>
 
 
