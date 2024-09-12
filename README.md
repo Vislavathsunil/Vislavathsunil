@@ -1,16 +1,11 @@
-<img width="30px" margin="0px" src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif">
-<h1>Howdy!, I am <a href="https://github.com/Defcon27">Vislavath Sunil</a> <img height="30px" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430"></h1>
-</h1>
+![MasterHead](https://i.pinimg.com/originals/19/6a/d9/196ad9d3122098b297d7b99ce9ff209f.gif)
+<h1 align="center">Hi 👋, I'm Vislavath Sunil</h1>
+<h3 align="center">Professional Talented Frontend Engineer</h3>
 
-### 📬 Find me at
-[![Github Badge](https://github.com/Vislavathsunil) 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/hemanthkollipara/)]( https://www.linkedin.com/in/sunil2004/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:defcon.sentinal95@gmail.com)](mailto:mrsunilpower@gmail.com)
-[![GeeksforGeeks Badge](https://img.shields.io/badge/-GeeksforGeeks-0F9D58?style=flat-square&logo=GeeksforGeeks&logoColor=white&link=https://auth.geeksforgeeks.org/user/hemanthkollipara/articles)](https://www.geeksforgeeks.org/user/vislavath_sunil/)
-
+<h3 align="center"> - Hi! I'm Vislavath Sunil, Frontend Developer, Software Engineer Freelancer. </h3>
 
 ### A little about me...  <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
-I'm a **Grad Student🎓** majoring in Computer Science. I'm a **Tech Enthusiast 💻 😃** passionate about learning and working with new tech. I love building interesting and amazing products that serve a great deal of purpose. <br/><br/>
+"I'm a graduate student majoring in Computer Science. I'm a tech enthusiast passionate about learning and working with new technologies. I love building innovative and impactful products that serve a meaningful purpose." <br/><br/>
 
 
 
@@ -18,90 +13,55 @@ I'm a **Grad Student🎓** majoring in Computer Science. I'm a **Tech Enthusiast
 ## ⚡️ A Few Quick Facts
 
  
-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on
+- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">  I enjoy working on building websites.
 - 🌐 Passionate about building responsive and dynamic websites.
-- 🎨 Proficient in HTML, CSS, JavaScript, React, and Tailwind CSS.
+- 🎨 Proficient in HTML, CSS, JavaScript, React JS, and Tailwind CSS.
 - 💻 Experienced with Node.js, Express.js, and REST APIs.
-- 📊 Hands-on with MongoDB, PostgreSQL, and SQL.
-- 🚀 I enjoy working on full-stack applications using MERN (MongoDB, Express, React, Node) stack.
+- 📊 Hands-on with MongoDB, Supabase and PostgreSQL.
+- 🚀 I enjoy working on full-stack applications using MERN (React JS, Node JS, Express JS, MongoDB) stack.
 - 📝 I write technical blogs and tutorials about web development.
 - 👯 I’m looking to collaborate on open-source web development projects.
-- 💬 Ask me about anything related to web development, JavaScript, or React.
-- 🎉 I love creating custom UI/UX designs and experimenting with new frontend libraries.
+- 💬 Ask me about anything related to web development, JavaScript, or React JS.
+
+
+# 💻 Tech Stack:
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
+![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white) 
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![Next JS](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white) 
+![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) 
+![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![Material UI](https://img.shields.io/badge/materialui-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) 
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
+![Framer Motion](https://img.shields.io/badge/framermotion-%23000000.svg?style=for-the-badge&logo=framer&logoColor=1EFF00) 
+![GSAP](https://img.shields.io/badge/gsap-%2300C48C.svg?style=for-the-badge&logo=greensock&logoColor=white) 
+![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) 
+![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white) 
+![Adobe Photoshop](https://img.shields.io/badge/adobephotoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white) 
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
+![Visual Studio Code](https://img.shields.io/badge/visualstudiocode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
+![ChatGPT](https://img.shields.io/badge/ChatGPT-%2343853D.svg?style=for-the-badge&logo=OpenAI&logoColor=white) 
+
+
+
+<h3 align="left">Stars</h3>
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohitrai12&layout=compact&theme=nord" alt=wasdthedebugger />
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <a href="https://my-portfolio-psi-two-19.vercel.app/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=About.me&logoColor=white" alt="sunil-portfolio" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/sunil2004/" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png" alt="rohitrai0" height="30" width="40" /></a>
+  <a href="https://x.com/mrsunil0101" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/X_logo.jpg/1200px-X_logo.jpg" alt="mrsunil0101" height="30" width="40" /></a>
+</p>
+
+
+ 
+
   
-### 🖥️ My DevSetup
-<img src="https://img.shields.io/badge/Legion-555555.svg?&style=flat-square&logo=Lenovo&logoColor=E2231A"> <img src="https://img.shields.io/badge/Windows-555555.svg?&style=flat-square&logo=windows&logoColor=0078D6"> <img src="https://img.shields.io/badge/Chrome-555555.svg?&style=flat-square&logo=google-chrome&logoColor=FABC0C"> <img src="https://img.shields.io/badge/VS Code-555555?style=flat-square&logo=visual-studio-code&logoColor=007ACC"> <img src="https://img.shields.io/badge/Terminal-555555.svg?&style=flat-square&logo=powershell&logoColor=white"> <img src="https://img.shields.io/badge/Jupyter-555555.svg?&style=flat-square&logo=jupyter&logoColor=F37626"> <img src="https://img.shields.io/badge/Spotify-555555.svg?&style=flat-square&logo=spotify&logoColor=1ED760"> 
-
-### ⚙️ Some Tool and Tech I use
- 
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="30" src="https://avatars3.githubusercontent.com/u/9950313?s=200&v=4"></code>
-  <code><img height="30" src="https://avatars1.githubusercontent.com/u/45120?s=200&v=4"></code>
-<code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="30" src="https://avatars1.githubusercontent.com/u/1517864?s=200&v=4"></code>
-<code><img height="30" src="https://avatars1.githubusercontent.com/u/2918581?s=200&v=4"></code>
-<code><img height="30" src="https://avatars3.githubusercontent.com/u/18133?s=200&v=4"></code>
- 
- 
-
-<!--
-### 🚀 Quick Stats
-<p align="center">
-<img width="450" align="left" src="https://github-readme-stats-defcon27.vercel.app/api?username=Defcon27&show_icons=true&line_height=21&theme=react" alt="Defcon27's Github Stats" /> -->
-<!-- <img width="340" height="155" align="center" 
-     src="https://github-readme-stats-defcon27.vercel.app/api/top-langs/?username=Defcon27&langs_count=6&hide=handlebars,jupyter notebook,css&theme=react&line_height=27&layout=compact" /> -->
-</p>
-
-
-<!-- ![Profile Views](https://komarev.com/ghpvc/?username=Defcon27) -->
-
-
-<!-- <details>
-<summary> 💥 Working on </summary>
-<br>
-<p align="center">
-<a href="https://github.com/Defcon27/Machine-Learning">
-<img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=Defcon27&repo=Machine-Learning&show_owner=true&theme=react" />
-</a>&ensp;
-<a href="https://github.com/Defcon27/Deep-Learning">
-<img src="https://github-readme-stats-defcon27.vercel.app/api/pin/?username=Defcon27&repo=Deep-Learning&show_owner=true&theme=react" />
-</a>
-</p>
-</details> -->
-
-
-
-<!--
-**Defcon27/Defcon27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-pic on right
-<img height="270" src="sss.svg" align=right>
-
- 
-views
-![Profile Views](https://komarev.com/ghpvc/?username=Defcon27)
-[![HitCount](http://hits.dwyl.com/Defcon27/.svg)](http://hits.dwyl.com/Defcon27)
-
-
-social modded badge
-<a href="https://www.linkedin.com/in/michael-hoffmann-3b8933b1"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-
-
-language badges:
-![Python](https://img.shields.io/badge/Python-FECE00?style=flat&logo=Python&logoColor=3776AB)
-![C](https://img.shields.io/badge/C-00599C?style=flat&logo=c)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2b%2b)
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat&logo=bootstrap)
-![JavaScript](https://img.shields.io/badge/JavaScript-555555?style=flat&logo=javascript)
-![Nodejs](https://img.shields.io/badge/Nodejs-555555?style=flat&logo=Node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-555555?style=flat&logo=mongodb)
-
-![Git](https://img.shields.io/badge/Git-555555?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github)
-
-
--->
